@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <AudioController>
 	<Version>1.0</Version>
-	<UpdateMsg></UpdateMsg>
+	<UpdateMsg>Phiên bản 1.0 mới nhất bao gồm các tính năng siêu xịn xò, hãy update ngay và luôn</UpdateMsg>
 	<UpdateLink>https://tvtit.github.io/AudioController/AudioController.zip</UpdateLink>
 </AudioController>
